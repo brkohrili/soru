@@ -1,0 +1,443 @@
+<style>
+.breadcrumb-box{display:none;}
+</style>
+<div class="full-width-box sub-support-box">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-9">t
+        <h1>İptal, İade, Değişim</h1>
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+          <li class="nav-item active">
+            <a class="nav-link" id="tab1" data-toggle="tab" href="#sub-tab1" role="tab" aria-controls="sub-tab1" aria-selected="true">İade</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="tab2" data-toggle="tab" href="#sub-tab2" role="tab" aria-controls="sub-tab2" aria-selected="true">Değişim</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="tab3" data-toggle="tab" href="#sub-tab3" role="tab" aria-controls="sub-tab3" aria-selected="true">Cayma Hakkı</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="tab4" data-toggle="tab" href="#sub-tab4" role="tab" aria-controls="sub-tab4" aria-selected="true">Sipariş İptali</a>
+          </li>
+        </ul>
+        
+        <div class="tab-content" id="myTabContent">
+        
+          <div class="tab-pane fade in active" id="sub-tab1" role="tabpanel" aria-labelledby="tab1">
+            <div class="accordion col-md-12" id="support-accordion">
+    
+              <div class="card">
+                <div class="card-header" id="card-1">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                     Ürünü nasıl iade edeceğim?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse1" class="collapse" aria-labelledby="card-1" data-parent="#support-accordion">
+                  <div class="card-body">
+                    İade veya değişim sürecini başlatabilmek için;  Üye hesabınızla alışveriş yaptıysanız; Hesabım menüsündeki Mevcut Sipariş sayfasından ürünün yanındaki İade Et butonuna basıp formu doldurarak talebinizi iletirsiniz.  Misafir kullanıcıysanız alışverişten sonra size gönderilen e-postalardaki Sipariş Detayı linkinden İade Et butonuna basarak iade talep edebilirsiniz. İade talebi onaylandıktan sonra ürün bedeli, kredi kartınız veya banka kartınız üzerinden iade edilecektir. 
+                  </div>
+                </div>
+              </div>
+           
+              <div class="card">
+                <div class="card-header" id="card-2">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+                      Taksitli yaptığımın alışverişin iadesi neden taksitli yapılıyor?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse2" class="collapse" aria-labelledby="card-2" data-parent="#support-accordion">
+                  <div class="card-body">
+                   Ücret iadesi toplam tutar olarak yapılır. Yapılan iade tutarı kadar kart limitiniz açılır. Taksitle yapılan ödemelerin iadesi tek seferde toplam tutar kadar yapılır ancak banka süreçleri nedeniyle taksit yapılan ay kadar muhasebeleştirilebilir. Bu nedenle tüm iadenin tek seferde yapılmasına rağmen taksit yapılan ay boyunca hesap ekstrenizde +,- bakiye olarak görebilirsiniz.
+                  </div>
+                </div>
+              </div>
+   
+              <div class="card">
+                <div class="card-header" id="card-3">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
+                      Kredi kartı ile ödeme yaptım, farklı şekilde para iadesi olur mu?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse3" class="collapse" aria-labelledby="card-3" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Kredi kartıyla ödeme yaptıktan sonra siparişi iptal etme durumunda, para iadesi kredi kartına yapılmaktadır. Diğer metotlarla para iadesi almak mümkün değildir.  Not: Kredi kartı ile yapılan alışverişlerde iade tutarı, bankaların yoğunluk ve süreç uygulamalarına bağlı olarak 3 iş günü içerisinde kredi kartınıza artı bakiye olarak yansıyacaktır. Ayrıntılı bilgi almak için bankanızla görüşebilirsiniz.
+                  </div>
+                </div>
+              </div>
+              
+              <div class="card">
+                <div class="card-header" id="card-4">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
+                      Kuponla aldığım ürünü iade edersem kuponu tekrar kullanabilir miyim?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse4" class="collapse" aria-labelledby="card-4" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Kupon kullanılarak alınan ürünlerin iade veya iptalinde sepetin tamamının iade veya iptal edilmesi gerekir. Kullanım süresi devam ediyorsa kupon hesaba tekrar yüklenir. Kısmı iade ile kullanım süresi geçtikten sonra yapılan iptal ve iade işlemlerinde kupon hesaba tekrar yüklenmez.    Önemli Not: Kampanya şartlarına bağlı olarak kupon iade durumu değişiklik gösterir. 
+                  </div>
+                </div>
+              </div>
+              
+              <div class="card">
+                <div class="card-header" id="card-5">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
+                      Mağaza en fazla kaç gün ek süre talep edebilir ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse5" class="collapse" aria-labelledby="card-5" data-parent="#support-accordion">
+                  <div class="card-body">
+                   Ürünün incelenmesi için zamana ihtiyaç duyulması durumunda, mağaza müşteriden en fazla 30 iş günü ek süre talep edebilir.
+                  </div>
+                </div>
+              </div>
+              
+              <div class="card">
+                <div class="card-header" id="card-6">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
+                      Mağaza iade için ek süre talep etti. Ne yapmam gerekiyor ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse6" class="collapse" aria-labelledby="card-6" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Ürün iade kargo bilgileri iletildikten sonra, mağazanın ürünü teslim alıp iade talebini sonuçlandırması için 3 iş günü + 24 saat süresi bulunuyor. Ürünü incelemek için zamana ihtiyaç duyması durumunda mağaza sizden ek süre talep edebilir. Ek süreye onay verdiğinizde ek süre sonunda talebin sonuçlandırılması gerekir.  Not: Talep edilen ek süre iş günü olarak hesaplanır.
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          
+          <div class="tab-pane fade" id="sub-tab1" role="tabpanel" aria-labelledby="tab1">
+            <div class="accordion col-md-12" id="support-accordion">
+    
+              <div class="card">
+                <div class="card-header" id="card-7">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="true" aria-controls="collapse7">
+                      Mağaza ile iade konusunda anlaşmazlık yaşıyoruz, ne yapmam gerekir ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse7" class="collapse" aria-labelledby="card-7" data-parent="#support-accordion">
+                  <div class="card-body">
+                   İade talebi oluştururken sorun yaşıyorsanız aşağıdaki adımları eksiksiz şekilde tamamladığınızdan emin olmanızı rica ediyoruz:
+
+- İade talebinin yemek kati.com üzerinden oluşturulması ve iadeye sebep olan konunun detaylandırılması,
+
+- İade edilecek ürünün sistem tarafından verilen kampanya kodu kullanılarak mağazanın anlaşmalı olduğu kargo firması ile gönderilmesi
+
+- İadeye gönderilecek ürünün faturalı, eksiksiz ve hasar görmeyecek şekide ambalajlanması,
+
+- İade talebi oluşturulduktan sonra ürünün mağazaya ulaştırılması ve mağaza tarafından kontrol edilmesi için 3 iş günü +24 saat süre tanınmaktadır. Bu süre sonunda mağaza tarafından herhangi bir işlem yapılmayan talepler otomatik olarak ücret iadesine yönlendirilmektedir. 
+
+Satılan ürünlere ait sorumluluk bizzat mağazalara ait olmakla birlikte, yukarıdaki tüm hususlara uyulmasına rağmen uyuşmazlığındevamı halinde Cazip.com tarafından gerekli tüm destek sağlanacaktır.
+                  </div>
+                </div>
+              </div>
+           
+              <div class="card">
+                <div class="card-header" id="card-8">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="true" aria-controls="collapse8">
+                      Para iadesi yerine başka ürün alabilir miyim ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse8" class="collapse" aria-labelledby="card-8" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Para iadesi yerine farklı bir ürün satın alınması mümkün değildir.
+                  </div>
+                </div>
+              </div>
+   
+              <div class="card">
+                <div class="card-header" id="card-9">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse9" aria-expanded="true" aria-controls="collapse9">
+                      Taksitli alışverişimin iadesi nasıl yapılır ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse9" class="collapse" aria-labelledby="card-9" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Taksitli yapılan alışverişlerin iadeleri, banka prosedürleri gereği, taksit süresi ve ilgili taksit tutarlarına göre yapılır. Taksitli siparişlerde iade yapıldığında kartınıza tek seferde ödeme yapılarak toplam işlem tutarı kadar limit açılır. Banka işlem ve süreçlerine göre ekstrenizde artı/eksi bakiye olarak görebilirsiniz. 
+                  </div>
+                </div>
+              </div>
+              
+              <div class="card">
+                <div class="card-header" id="card-10">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse10" aria-expanded="true" aria-controls="collapse10">
+                      Taksitli yaptığımın alışverişin iadesi neden taksitli yapılıyor ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse10" class="collapse" aria-labelledby="card-10" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Ücret iadesi toplam tutar olarak yapılır. Yapılan iade tutarı kadar kart limitiniz açılır. Taksitle yapılan ödemelerin iadesi tek seferde toplam tutar kadar yapılır ancak banka süreçleri nedeniyle taksit yapılan ay kadar muhasebeleştirilebilir. Bu nedenle tüm iadenin tek seferde yapılmasına rağmen taksit yapılan ay boyunca hesap ekstrenizde +,- bakiye olarak görebilirsiniz. hesabım sayfası üzerinden canlı destek ile görüşebilirsiniz 
+                  </div>
+                </div>
+              </div>
+              
+              <div class="card">
+                <div class="card-header" id="card-5">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
+                      Ücret iadesi taksitle mi yapılacak? Kart limitim ne zaman açılacak ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse5" class="collapse" aria-labelledby="card-5" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Ücret iadesi toplam tutar olarak yapılır. Yapılan iade tutarı kadar kart limitiniz açılır. Taksitle yapılan ödemelerin iadesi tek seferde toplam tutar kadar yapılır ancak banka süreçleri nedeniyle taksit yapılan ay kadar muhasebeleştirilebilir. Bu nedenle tüm iadenin tek ferde yapılmasına rağmen taksit yapılan ay boyıunca hesap ekstrenizde, +,- bakiye olarak görebilirsiniz.
+                  </div>
+                </div>
+              </div>
+              
+              <div class="card">
+                <div class="card-header" id="card-6">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
+                      Ürün arızalı / hasarlı / eksik / farklı ise nasıl iade edebilirim ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse6" class="collapse" aria-labelledby="card-6" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Kargo paketinde veya üründe fark edilir şekilde hasar, darbe, kırık tespit edilmesi durumunda kargo görevlisine mutlaka hasar tespit tutanağı düzenletmelisiniz. Hasarlı kargolar için kargo görevlileri zabıt tutmakla yükümlüdür.  Kargo görevlisinin belge, zabıt veya tutanak düzenlemediği durumlarda ürünü teslim almadan görevliye iade edebilir veya kargo şubesinde kontrolunu sağlayarak teslim alabilirsiniz.  Hasar tespit belgesini düzenletmezseniz üründeki sorunun mağaza veya kargo kaynaklı olduğunu ispatlamanız mümkün  değildir. Bu nedenle mutlaka tutanak tutturmalısınız.  Kargo paketinde veya üründe fark edilir şekilde hasar, darbe, kırık olması durumunda kargo görevlisine hasar tespit tutanağı düzenletmeniz gerekir.  Tutanak tutturarak ürünü teslim almadan görevliye kapıda iade edebilirsiniz. Ürününüz eksik, arızalı, kusurlu, hasarlı veya belirtilenden farklı ise iade etme hakkınızı kullanabilirsiniz.  İade sürecini başlatabilmek için üyeyseniz; Hesabım menüsündeki Mevcut Sipariş sayfasından ürünün yanında yer alan İade Et butonuna basarak talepte bulunabilirsiniz. Misafir kullanıcıysanız alışverişten sonra size gönderilen e-postalardaki Sipariş Detayı linkinden iade talep edebilirsiniz. 
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          
+          <div class="tab-pane fade" id="sub-tab1" role="tabpanel" aria-labelledby="tab1">
+            <div class="accordion col-md-12" id="support-accordion">
+    
+              <div class="card">
+                <div class="card-header" id="card-1">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                      Ürün bilgilerinde "İade Olamaz" diye belirtilmiş. Ürün gerçekten iade olmuyor mu ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse1" class="collapse" aria-labelledby="card-1" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Mağaza, ürün detay sayfasında "İade Olmaz" diye yazdıysa bile tüketici haklarını göz önünde tutarak alıcının iade talebini almak zorunludur. 
+                  </div>
+                </div>
+              </div>
+           
+              <div class="card">
+                <div class="card-header" id="card-2">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+                      Ürün iade ederken mağazanın adresini nereden kontrol edebiliriz ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse2" class="collapse" aria-labelledby="card-2" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Üye hesabınızla alışveriş yaptıysanız; Hesabım menüsündeki Mevcut Sipariş sayfasından ürünün yanındaki İade Et butonuna basın. Açılan sayfada "Henüz ürünü göndermedim, iade sürecini başlatmak istiyorum" seçeneğini işaretleyip gerekli bilgileri girdikten sonra mağazanın iade adresi çıkar.  Misafir kullanıcıysanız alışverişten sonra size gönderilen e-postalardaki Sipariş Detayı linkinden iade talebinizi oluşturabilir ve iade adres bilgilerini görebilirsiniz. 
+                  </div>
+                </div>
+              </div>
+   
+              <div class="card">
+                <div class="card-header" id="card-3">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
+                      Ürüne zarar verilmesi durumunda alıcı Cayma Hakkını kullanıp ürünü iade edebilir mi ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse3" class="collapse" aria-labelledby="card-3" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Mevzuat gereği, ürünün değerinin azalması veya iadeyi imkânsız kılan bir nedenin varlığı, cayma hakkının kullanılmasına engel olmaz. Ancak ürünün değerinin azalması veya iadeyi imkânsızlaşması, müşterinin kusurundan kaynaklanıyorsa ürünün değerini veya değerindeki azalmayı mağazaya tazmin etmesi gerekir. Bu durumda, mağaza zararını tazmin edebilmek için, ürün değerinin azalmasına karşı müşteri hakkında yasal yollara başvurabilir. Mesafeli Satış Sözleşmesini Gör 
+                  </div>
+                </div>
+              </div>
+              
+              <div class="card">
+                <div class="card-header" id="card-4">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
+                      Ürünü iade ettim, kargo takip numarasını hatırlayamıyorum. Ne yapmalıyım ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse4" class="collapse" aria-labelledby="card-4" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Kargo takip numarası, iade ürünü gönderdiğinizi belgelemek için gerekli olup kargoda herhangi bir sorun çıkması durumunda mağazanın sorgulama yapabilmesi için gerekir.  İade edilen ürünün takip numarasını unuttuğunuz zaman kargo firmasıyla irtibata geçmeniz ve iade talep ederken ilgili alana girmeniz gerekir. 
+                  </div>
+                </div>
+              </div>
+              
+              <div class="card">
+                <div class="card-header" id="card-5">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
+                      Ürünün geldiği adres ile mağaza sahibinin iade için belirttiği adresin farklı olması durumunda ne yapmalıyım ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse5" class="collapse" aria-labelledby="card-5" data-parent="#support-accordion">
+                  <div class="card-body">
+                    İade edilecek ürünü, mağazanın belirttiği iade adresine göndermeniz gerekir. Ürünün gönderildiği adresle iade edilecek adres birbirinden farklı olabilir.  İade sürecini başlatabilmek için;  - Üye hesabınızla alışveriş yaptıysanız Hesabım menüsündeki Mevcut Sipariş sayfasından İade Et butonuna basarak gerekli bilgileri girin.  - Misafir kullanıcıysanız alışverişten sonra size gönderilen e-postalardaki Sipariş Detayı linkinden İade Et butonuna basarak talepte bulunabilirsiniz.
+                  </div>
+                </div>
+              </div>
+              
+              <div class="card">
+                <div class="card-header" id="card-6">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
+                      Ürünün paketine zarar verdim, yine de iade yapabilir miyim ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse6" class="collapse" aria-labelledby="card-6" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Mevzuat gereği, ürünün değerinin azalması veya iadeyi imkânsız kılan bir nedenin varlığı, cayma hakkının kullanılmasına engel olmaz. Ancak ürünün değerinin azalması veya iadenin imkânsızlaşması, alıcının kusurundan kaynaklanıyorsa ürünün değerini veya değerindeki azalmayı mağazaya tazmin etmesi gerekir. Bu durumda, mağaza zararını tazmin edebilmek için ürün değerinin azalmasına karşı alıcı hakkında yasal yollara başvurabilir. 
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          
+          <div class="tab-pane fade" id="sub-tab1" role="tabpanel" aria-labelledby="tab1">
+            <div class="accordion col-md-12" id="support-accordion">
+    
+              <div class="card">
+                <div class="card-header" id="card-1">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                      İade başvurusu yaptım, iptal edebilir miyiz ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse1" class="collapse" aria-labelledby="card-1" data-parent="#support-accordion">
+                  <div class="card-body">
+                    İade talebinizi iptal etmek için; Hesabım menüsündeki Mevcut Sipariş sayfasından ürünün yanındaki Talebi Geri Al butonuna basarak talebinizi çekebilirsiniz.  Misafir kullanıcıysanız alışverişten sonra size gönderilen e-postalardaki Sipariş Detayı linkinden iade talebinizi iptal edebilirsiniz.  
+                  </div>
+                </div>
+              </div>
+           
+              <div class="card">
+                <div class="card-header" id="card-2">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+                      İade edeceğim ürünü nasıl göndermem gerekiyor ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse2" class="collapse" aria-labelledby="card-2" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Ürünü kargoya teslim etmeden önce, iyi şekilde paketlediğinizden emin olun. Baloncuklu poşet, köpük gibi koruyucu maddelerle birlikte ürünleri uygun bir kutu içine koymak, en güvenli kargolama yoludur.  Üye hesabınızla alışveriş yaptıysanız; Hesabım menüsünden Mevcut Sipariş sayfasından ürünün yanındaki İade Et butonuna basın. Açılan sayfada iade talep formunu doldurup iade adres bilgilerini alın.  Misafir kullanıcıysanız alışverişten sonra size gönderile e-postalardaki Sipariş Detayı linkinden iade talep edebilirsiniz. 
+                  </div>
+                </div>
+              </div>
+   
+              <div class="card">
+                <div class="card-header" id="card-3">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
+                      İade talep ettim, nereden takip edebilirim ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse3" class="collapse" aria-labelledby="card-3" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Üye hesabınızla alışveriş yaptıysanız; Hesabım menüsündeki Mevcut Sipariş sayfasından iade talebinizi takip edebilirsiniz.  Misafir kullanıcıysanız alışverişten sonra size gönderilen e-postalardaki Sipariş Detayı linkinden talebinizin durumunu görebilirsiniz. 
+                  </div>
+                </div>
+              </div>
+              
+              <div class="card">
+                <div class="card-header" id="card-4">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
+                      İadeyi iptal ettim, tekrar iade için başvurabilir miyim ?
+                      <i class="fa fa-chevron-down"></i>
+                    </button>
+                  </h2>
+                </div>
+            
+                <div id="collapse4" class="collapse" aria-labelledby="card-4" data-parent="#support-accordion">
+                  <div class="card-body">
+                    Üye hesabınızla alışveriş yaptıysanız; Hesabım menüsündeki Mevcut Sipariş sayfasından tekrar iade talebinde bulunabilirsiniz.  Misafir kullanıcıysanız alışverişten sonra size gönderilen e-postalardaki Sipariş Detayı linkinden iade talep edebilirsiniz. 
+                  </div>
+                </div>
+              </div>
+      </div>
+      <div class="col-md-3">
+        <h2>Konu Başlıkları</h2>
+        <ul class="list-group">
+<li class="list-group-item disabled"><a href="iptal-iade-degisim">İptal, İade, Değişim</a></li>
+          <li class="list-group-item"><a href="kargo-teslimat">Kargo & Teslimat</a></li>
+          <li class="list-group-item"><a href="urun-magaza">Ürün & Mağaza</a></li>
+          <li class="list-group-item"><a href="odeme">Ödeme</a></li>
+          <li class="list-group-item"><a href="kupon-kampanyalar">Kupon & Kampanyalar</a></li>
+          <li class="list-group-item"><a href="uyelik">Üyelik</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
